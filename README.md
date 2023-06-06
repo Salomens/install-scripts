@@ -7,5 +7,5 @@
 - 使用 Node.js 版本
 
   ```bash
-  curl -fsSLO https://raw.githubusercontent.com/UnblockNeteaseMusic/install-scripts/master/server/install.sh && sudo bash install.sh
+  curl -fsSLO https://gh.jiujiukan.ml/https://raw.githubusercontent.com/Salomens/install-scripts/master/server/install.sh && sudo bash install.sh
   ```
